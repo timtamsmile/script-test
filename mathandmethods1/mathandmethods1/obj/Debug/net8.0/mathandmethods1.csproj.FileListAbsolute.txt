@@ -1,0 +1,14 @@
+C:\Users\urlus\source\repos\mathandmethods1\mathandmethods1\bin\Debug\net8.0\mathandmethods1.exe
+C:\Users\urlus\source\repos\mathandmethods1\mathandmethods1\bin\Debug\net8.0\mathandmethods1.deps.json
+C:\Users\urlus\source\repos\mathandmethods1\mathandmethods1\bin\Debug\net8.0\mathandmethods1.runtimeconfig.json
+C:\Users\urlus\source\repos\mathandmethods1\mathandmethods1\bin\Debug\net8.0\mathandmethods1.dll
+C:\Users\urlus\source\repos\mathandmethods1\mathandmethods1\bin\Debug\net8.0\mathandmethods1.pdb
+C:\Users\urlus\source\repos\mathandmethods1\mathandmethods1\obj\Debug\net8.0\mathandmethods1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\urlus\source\repos\mathandmethods1\mathandmethods1\obj\Debug\net8.0\mathandmethods1.AssemblyInfoInputs.cache
+C:\Users\urlus\source\repos\mathandmethods1\mathandmethods1\obj\Debug\net8.0\mathandmethods1.AssemblyInfo.cs
+C:\Users\urlus\source\repos\mathandmethods1\mathandmethods1\obj\Debug\net8.0\mathandmethods1.csproj.CoreCompileInputs.cache
+C:\Users\urlus\source\repos\mathandmethods1\mathandmethods1\obj\Debug\net8.0\mathandmethods1.dll
+C:\Users\urlus\source\repos\mathandmethods1\mathandmethods1\obj\Debug\net8.0\refint\mathandmethods1.dll
+C:\Users\urlus\source\repos\mathandmethods1\mathandmethods1\obj\Debug\net8.0\mathandmethods1.pdb
+C:\Users\urlus\source\repos\mathandmethods1\mathandmethods1\obj\Debug\net8.0\mathandmethods1.genruntimeconfig.cache
+C:\Users\urlus\source\repos\mathandmethods1\mathandmethods1\obj\Debug\net8.0\ref\mathandmethods1.dll

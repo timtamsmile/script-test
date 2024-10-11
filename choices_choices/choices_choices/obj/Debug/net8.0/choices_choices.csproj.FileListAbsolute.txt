@@ -1,0 +1,14 @@
+C:\Users\urlus\source\repos\choices_choices\choices_choices\obj\Debug\net8.0\choices_choices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\urlus\source\repos\choices_choices\choices_choices\obj\Debug\net8.0\choices_choices.AssemblyInfoInputs.cache
+C:\Users\urlus\source\repos\choices_choices\choices_choices\obj\Debug\net8.0\choices_choices.AssemblyInfo.cs
+C:\Users\urlus\source\repos\choices_choices\choices_choices\obj\Debug\net8.0\choices_choices.csproj.CoreCompileInputs.cache
+C:\Users\urlus\source\repos\choices_choices\choices_choices\bin\Debug\net8.0\choices_choices.exe
+C:\Users\urlus\source\repos\choices_choices\choices_choices\bin\Debug\net8.0\choices_choices.deps.json
+C:\Users\urlus\source\repos\choices_choices\choices_choices\bin\Debug\net8.0\choices_choices.runtimeconfig.json
+C:\Users\urlus\source\repos\choices_choices\choices_choices\bin\Debug\net8.0\choices_choices.dll
+C:\Users\urlus\source\repos\choices_choices\choices_choices\bin\Debug\net8.0\choices_choices.pdb
+C:\Users\urlus\source\repos\choices_choices\choices_choices\obj\Debug\net8.0\choices_choices.dll
+C:\Users\urlus\source\repos\choices_choices\choices_choices\obj\Debug\net8.0\refint\choices_choices.dll
+C:\Users\urlus\source\repos\choices_choices\choices_choices\obj\Debug\net8.0\choices_choices.pdb
+C:\Users\urlus\source\repos\choices_choices\choices_choices\obj\Debug\net8.0\choices_choices.genruntimeconfig.cache
+C:\Users\urlus\source\repos\choices_choices\choices_choices\obj\Debug\net8.0\ref\choices_choices.dll
